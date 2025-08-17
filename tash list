@@ -1,0 +1,8 @@
+[33m8244e4b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mgh-pages[m[33m, [m[1;31morigin/gh-pages[m[33m)[m HEAD@{0}: reset: moving to HEAD@{1}
+[33me1ae61e5[m HEAD@{1}: commit: Remove node_modules from tracking
+[33m8244e4b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mgh-pages[m[33m, [m[1;31morigin/gh-pages[m[33m)[m HEAD@{2}: commit (initial): Deploy to GitHub Pages
+[33m7debcae7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{3}: commit: uploading to git
+[33mb760a631[m HEAD@{4}: Branch: renamed refs/heads/master to refs/heads/main
+[33mb760a631[m HEAD@{6}: commit: updated chat design and api generation
+[33mbbad769d[m HEAD@{7}: commit: start up
+[33m6d334703[m HEAD@{8}: commit (initial): Initialize project using Create React App
